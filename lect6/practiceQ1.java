@@ -20,7 +20,7 @@ package lect6;
         student s3= new student();
         s1.name="anshu";
         s1.rollNumber=1;
-        s1.marks=95.5f;
+        s1.marks=91.4f;
         s1.displayDetails();
         System.out.println();
         s2.name="vikash";
