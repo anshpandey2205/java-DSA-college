@@ -1,7 +1,7 @@
 package lect13;
 import java.util.HashSet;
 
-public class print_unique {
+public class print_common {
     public static void main(String[] args) {
         int arr1[]={1,2,3,4,4,5,3};
         int arr2[]={1,2,3,6,7,8};
