@@ -22,9 +22,9 @@ public class target {
             Integer y=it.previous();
             if(y<target){
             it.remove();
-             }//else{
-            //     System.out.println(y);
-            // }
+         }//else{
+        //          System.out.println(y);
+        //     }
         }
         System.out.println(list);
     }
