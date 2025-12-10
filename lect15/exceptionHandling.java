@@ -1,4 +1,3 @@
-package lect15;
 import java.util.*;
 
 public class exceptionHandling {
