@@ -14,6 +14,7 @@ public class multitasking {
         t1.run();  // this will run in main thread
         for(int i=1;i<=5;i++){
             System.out.println("main thread");
+            System.out.println(i);
         }
     }
 }
