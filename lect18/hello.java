@@ -2,7 +2,15 @@ package lect18;
 
 class mythread implements Runnable{
     public void run(){
-        System.out.println("hello");
+        for(int i=0;i<5;i++){
+            System.out.println(i);
+            try {
+                Thread.sleep(2000); // Sleep for 2 second
+            } catch (Exception e) {
+                System.out.println(e);
+            }
+        }
+
     }
 }
 public class hello {
