@@ -10,7 +10,7 @@ public class sum {
         subArraySum(arr, i+1, sum+arr[i]);
         // exclude
         subArraySum(arr, i+1, sum);
-        
+
     }
     public static void main(String[] args) {
         int[]arr={1,2,3};
