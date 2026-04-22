@@ -15,6 +15,5 @@ public class subStr {
     public static void main(String[] args) {
         String str = "abc";
         subStr(str, 0, "");
-        
     }
 }
