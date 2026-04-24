@@ -12,3 +12,4 @@ public class dpCount {
         System.out.println(countDigits(12345)); // Output: 5
     }
 }
+ 
